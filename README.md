@@ -218,7 +218,7 @@ public class StudentDemo {
 
 ```
 ## Expected Output
-
+```
 Initial student list:
 UndergraduateStudent{id=1001, lastName='Smith', annualTuition=$8000.00}
 GraduateStudent{id=1002, lastName='Johnson', annualTuition=$12000.00}
@@ -226,3 +226,4 @@ StudentAtLarge{id=1003, lastName='Williams', annualTuition=$4000.00}
 UndergraduateStudent{id=1004, lastName='Brown', annualTuition=$8000.00}
 GraduateStudent{id=1005, lastName='Jones', annualTuition=$12000.00}
 StudentAtLarge{id=1006, lastName='Davis', annualTuition=$4000.00}
+```
